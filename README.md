@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @sebastianmezaurotadze
 - 👀 I’m interested in AI and simulations
-- 🌱 I’m currently learning python and pyrosim
-- 💞️ I’m looking to collaborate on cool AI projects :D
+- 🌱 I’m currently learning python and ANSYS TUI
 - 📫 How to reach me smezaurotadze@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Im trilingual 
+- ⚡ Fun fact: I love martial arts
 
 <!---
 sebastianmezaurotadze/sebastianmezaurotadze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
